@@ -63,8 +63,6 @@ If you'd like to contribute to the development of the Rig Extensions, you are al
 -------
 Thanks to Adriano D'Elia for procedural widget generation nodes.
 
-> Linkedin [@deliaadriano](https://it.linkedin.com/in/deliaadriano)
-
-> Art Station [@adrianodelia](https://www.artstation.com/adrianodelia)
+> Adriano D'Elia [Link](https://linktr.ee/adrianodelia)
 
 #### Authored and maintained by Gianluca Giampuzzo
