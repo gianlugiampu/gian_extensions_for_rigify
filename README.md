@@ -57,7 +57,10 @@ as a Feature Set through the Rigify Add-On settings.
   * **custom_text** Generate a custom text resposive with bone size;
 
 ## Contributing
-If you'd like to contribute to the development of the Rig Extensions, you are always welcome! If you want to contribute to this list, send a _pull request_, open an _issue_ or _contact with me.
+If you'd like to contribute to the development of the Rig Extensions, you are always welcome!
+
+## Contact
+> Gianluca Giampuzzo [Link](https://linktr.ee/gianlucagiampuzzo)
 
 ## Credits
 -------
@@ -66,3 +69,4 @@ Thanks to Adriano D'Elia for procedural widget generation nodes.
 > Adriano D'Elia [Link](https://linktr.ee/adrianodelia)
 
 #### Authored and maintained by Gianluca Giampuzzo
+
