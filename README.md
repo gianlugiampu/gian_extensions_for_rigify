@@ -30,7 +30,6 @@ as a Feature Set through the Rigify Add-On settings.
 * ### Face Metarig
   Generate a metarig all the previous metarig sets, and a `basic.raw_copy` as UI master control.
   * `Eyebrows metarig` `Eyes metarig` `Nose & Cheeks metarig` `Mouth & Jaw metarig` 
-  
 
 ## Rig Types
 -------
@@ -63,7 +62,6 @@ If you'd like to contribute to the development of the Rig Extensions, you are al
 > Gianluca Giampuzzo [Link](https://linktr.ee/gianlucagiampuzzo)
 
 ## Credits
--------
 Thanks to Adriano D'Elia for procedural widget generation nodes.
 
 > Adriano D'Elia [Link](https://linktr.ee/adrianodelia)
